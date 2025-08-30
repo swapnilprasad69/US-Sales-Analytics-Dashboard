@@ -100,6 +100,6 @@ The dataset consists of multiple relational tables:
 ## 👤 Author
 **Swapnil Prasad**  
 📍 Hyderabad, India  
-🔗 [GitHub Profile]([(https://github.com/swapnilprasad69)])  
-🔗 [LinkedIn]([(https://www.linkedin.com/in/swapnil-prasad-387295178)])  
+🔗 [GitHub Profile](https://github.com/swapnilprasad69)  
+🔗 [LinkedIn](https://www.linkedin.com/in/swapnil-prasad-387295178)  
 
